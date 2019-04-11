@@ -1,0 +1,19 @@
+Fikka Raudiya
+1301150743
+Implementasi dan Pengujian Perangkat Lunak
+
+Laporan Pengembangan Aplikasi Berbasis WEB
+Aplikasi yang dibahas dalam laporan ini berupa aplikasi berbasis WEB yang bertujuan untuk melakukan transaksi jual-beli dimana pihak penjual adalah admin dan pembeli adalah user. Aplikasi ini dibuat agar penjual memiliki toko virtual yang dapat melakukan segala transaksi seperti layaknya toko sebenarnya. Di sini hanya ada satu penjual yaitu dari pihak admin sedangkan user hanya berperan sebagai pembeli.
+
+Kemampuan Aplikasi
+Berikut adalah kemampuan dan kelebihan yang dimiliki aplikasi:
+Fungsional
+•	Memiliki fungsi login yang dapat membedakan admin dengan user
+•	Segala data barang, transaksi dan user dapat diakses dengan mudah oleh admin
+•	Pembeli dapat mengganti atau membatalkan pembelian barang dalam keranjang
+•	Pembeli dapat membatalkan pembelian barang yang sudah dikonfirmasi
+•	Data yang berhubungan dengan barang dapat diakses secara langsung oleh user
+Non-fungsional
+•	Portable untuk semua OS platform terbaru
+•	Halaman aplikasi dapat menyesuaikan dengan layar
+•	Tampilan halaman dibuat familiar agar mudah dipelajari
